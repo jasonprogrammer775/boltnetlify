@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'React';
 import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
 
 export default function Hero() {
@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 py-16">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-            Hi, I'm <span className="text-cyan-400">John Doe</span>
+            Hi, I'm <span className="text-cyan-400">jay</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-slide-up">
             Full Stack Developer crafting beautiful digital experiences
